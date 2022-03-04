@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d MyPortfolio"
+    "deploy": "gh-pages -d C:/Users/adego/Downloads/MyPortfolio"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://adegokeabdulazeez.github.io/MyPortfolio",
+  "homepage": "https://adegokeabdulazeez.github.io/",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
