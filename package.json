@@ -4,11 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d MyPortfolio"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://adegokeabdulazeez.github.io/MyPortfolio",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
