@@ -602,7 +602,10 @@ progress {
 .img-fluid {
   max-width: 100%;
   height: auto;
-  object-fit: cover;
+}
+.grid{
+  column-gap: 20px;
+  row-gap: 20px;
 }
 
 .img-thumbnail {
