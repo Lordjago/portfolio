@@ -603,10 +603,6 @@ progress {
   max-width: 100%;
   height: auto;
 }
-.grid{
-  column-gap: 20px;
-  row-gap: 20px;
-}
 
 .img-thumbnail {
   padding: 0.25rem;
